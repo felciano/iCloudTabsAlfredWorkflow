@@ -55,12 +55,12 @@ conn.close()
 # all_device_tabs = [
 #     ['device1_name', [
 #         {'Title': 'device1_tab1_title', 'URL': 'device1_tab1_url'},
-#         {'Title': 'device1_tab1_title', 'URL': 'device1_tab1_url'}
+#         {'Title': 'device1_tab2_title', 'URL': 'device1_tab2_url'}
 #     ]
 #     ]
 #     ['device2_name', [
 #         {'Title': 'device2_tab1_title', 'URL': 'device2_tab1_url'},
-#         {'Title': 'device2_tab1_title', 'URL': 'device2_tab1_url'}
+#         {'Title': 'device2_tab2_title', 'URL': 'device2_tab2_url'}
 #     ]
 #     ]
 # ]
